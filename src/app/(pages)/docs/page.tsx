@@ -202,7 +202,7 @@ export default function DocsPage() {
             asChild
             className="bg-teal-600 hover:bg-teal-700 h-16 px-12! text-lg font-semibold"
           >
-            <Link href="#">
+            <Link href="https://github.com/oumelab/demo-next-starter" target="_blank">
               <Icons.gitHub className="mr-2 h-5 w-5 fill-white" />
               GitHubを見る
             </Link>

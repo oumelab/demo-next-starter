@@ -22,7 +22,7 @@ export default function Header() {
             size="lg"
             className="hidden md:flex text-lg"
           >
-            <Link href="https://github.com/b13o/next-starter" target="_blank">
+            <Link href="https://github.com/oumelab/demo-next-starter" target="_blank">
               <Icons.gitHub className="h-4 w-4 mr-2" />
               GitHub
             </Link>
